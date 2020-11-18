@@ -1,3 +1,5 @@
+package GitPractica;
+
 import java.util.*;
 
 public class Ejercicio2 {
